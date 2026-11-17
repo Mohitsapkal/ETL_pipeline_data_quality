@@ -1,0 +1,202 @@
+customer_id,name,email,country,signup_date
+1,Brian Yang,JOHNSONJOSHUA@EXAMPLE.ORG,Mayotte,2023-09-22
+2,Lance Hoffman,fjohnson@example.org,Saint Barthelemy,2025-05-31
+3,Abigail Shaffer,lrobinson@example.com,Qatar,2024-09-24
+4,Ian Cooper,,Estonia,2025-11-19
+5,Sandra Montgomery,YHERRERA@EXAMPLE.ORG,Tokelau,2024-07-19
+6,Victoria Wyatt,janetwilliams@example.org,Tonga,2023-10-07
+7,  Michael Miles  ,shawn52@example.com,Pitcairn Islands,2025-05-29
+8,William Bowman,amandasanchez@example.com,Moldova,2024-02-14
+9,Jennifer Jones,megan03@example.org,United States Minor Outlying Islands,2026-04-17
+10,Derek Wright,jason76@example.net,Monaco,2025-01-29
+11,Zachary Hicks,zhurst@example.com,Bermuda,2025-09-24
+12,Arthur James,hernandezernest@example.net,Lao People's Democratic Republic,2025-01-18
+13,Patricia Peterson,frazierdanny@example.net,French Polynesia,2024-10-07
+14,Jonathan White,usmith@example.net,United States Minor Outlying Islands,2023-10-13
+15,Phillip Ryan,,Slovakia (Slovak Republic),2026-03-25
+16,Sherry Decker,georgetracy@example.org,Gambia,2024-03-07
+17,Rose Spence,nataliearroyo@example.org,Martinique,2025-10-05
+18,Shane Henderson,donnaarroyo@example.org,Croatia,2026-04-02
+19,Jessica Holmes,jenniferross@example.net,British Indian Ocean Territory (Chagos Archipelago),2024-03-16
+20,Adrienne Zimmerman,morganbrianna@example.org,Bahamas,2024-02-24
+21,John Ryan,heathchad@example.org,Saint Kitts and Nevis,2026-04-09
+22,Brent Jordan,esanchez@example.com,Jamaica,2024-09-11
+23,Nicholas Mcbride,nuneztracey@example.org,Botswana,2024-03-17
+24,David Leblanc,,Kenya,2025-11-20
+25,Tammy Allison,williamsyvette@example.org,Chad,2024-09-06
+26,Aaron Myers,zlewis@example.org,Vanuatu,2025-10-25
+27,Kristi Higgins MD,smitchell@example.net,French Polynesia,2024-02-12
+28,Anthony Woods,rileyamy@example.net,Uruguay,2026-01-08
+29,Barry Hensley,brianromero@example.org,Iraq,2023-10-28
+30,Kevin Mills,bethwilliams@example.org,Vietnam,2024-03-30
+31,Joyce Hickman,john62@example.net,Vietnam,2023-09-06
+32,Daniel Baker,khowell@example.org,Venezuela,2024-07-05
+33,Joshua Turner,suarezmike@example.org,Sri Lanka,2025-06-04
+34,Shawn Baker,contrerasangela@example.net,Tuvalu,2023-10-14
+35,Michael Farrell,JOSEPHJACOBS@EXAMPLE.NET,Madagascar,2024-12-05
+36,Gavin Anderson,davisrodney@example.com,Estonia,2023-12-13
+37,Benjamin Ware,barnold@example.net,United Kingdom,2023-11-29
+38,Andrew Diaz,davenportbrandi@example.org,Venezuela,2025-11-07
+39,Heather Castro,nolanjason@example.org,Tunisia,2024-09-06
+40,Rita Keith,sarayoung@example.org,Anguilla,2024-01-01
+41,Michael Reyes,kimberly63@example.com,Argentina,2026-01-15
+42,Robert Perez,jamessellers@example.com,Anguilla,2025-06-11
+43,Jordan Frazier,EMURPHY@EXAMPLE.COM,Tajikistan,2025-01-26
+44,Victoria Johnson,,Nepal,2024-10-07
+45,Cheryl Williams,samuel81@example.com,Jordan,2023-06-20
+46,Lisa Alvarado,michaeljones@example.net,British Virgin Islands,2025-08-15
+47,Kristen Lee,william65@example.com,Papua New Guinea,2026-04-14
+48,Elizabeth Clark,christinaturner@example.net,Solomon Islands,2025-03-15
+49,Steven Flynn,steven73@example.net,Chile,2025-06-10
+50,Nicole Chambers,zachary95@example.org,Czech Republic,2025-11-18
+51,Patricia Gibson,andrewsanchez@example.com,Turks and Caicos Islands,2025-05-09
+52,Matthew Smith,jennifercruz@example.com,Sao Tome and Principe,2026-01-17
+53,Amber Wright,osbornejeffery@example.net,Thailand,2023-10-30
+54,Tiffany Vance,lauriecontreras@example.net,New Zealand,2025-11-28
+55,Natasha Wells,jrivas@example.com,Eritrea,2025-09-19
+56,Jeremiah Reeves,katie87@example.net,Dominica,2024-04-11
+57,Michael Mccarthy,patricia12@example.org,Bahrain,2024-09-15
+58,Jean Carrillo,amy60@example.org,Yemen,2025-07-20
+59,Sarah Ashley,wwoods@example.com,Italy,2025-01-28
+60,George Shelton,tracynelson@example.com,Iraq,2025-08-20
+61,James Elliott,ncalhoun@example.net,Anguilla,2023-09-19
+62,James Lewis,dtaylor@example.org,Greece,2024-06-22
+63,Julie Curry,aramirez@example.com,Austria,2026-06-18
+64,Christina Smith,jeffrey10@example.org,Cape Verde,2024-03-06
+65,David Wood,kcaldwell@example.org,New Caledonia,2025-04-14
+66,Alexander Collins,stricklandfrank@example.com,Philippines,2026-03-10
+67,Michael Burton,tsanders@example.org,Bosnia and Herzegovina,2025-07-22
+68,Hannah Patterson,melissa91@example.net,Heard Island and McDonald Islands,2023-09-02
+69,Jack Snow,alexander67@example.org,Kuwait,2025-08-02
+70,Robert Medina,hthompson@example.net,Liberia,2024-11-09
+71,Dana Marshall,marcus31@example.com,New Zealand,2025-06-20
+72,Robert Peterson,anthony52@example.com,Turkmenistan,2025-04-02
+73,Jason Peters,angela83@example.org,Dominican Republic,2025-07-14
+74,Jared Sanchez,bwest@example.org,Panama,2025-03-17
+75,Krista Bell MD,wtran@example.com,Gambia,2024-03-20
+76,Pamela Lopez,griffithleslie@example.net,Cuba,2025-09-05
+77,Dr. Elizabeth Ward,jenny89@example.com,Gabon,2023-07-04
+78,Tony Little,joshuamccann@example.net,Sao Tome and Principe,2024-12-08
+79,Vincent King,andrewstaylor@example.com,Tokelau,2024-11-23
+80,Brittany Shepherd,moralescharles@example.net,Yemen,2024-05-17
+81,Lisa Rowe,davidduran@example.net,Hong Kong,2024-10-24
+82,Marc Lynch,levans@example.com,Saint Vincent and the Grenadines,2023-10-05
+83,Christopher Jones,colleenbaker@example.org,Afghanistan,2024-09-08
+84,Michele Gibson,ocarter@example.com,Poland,2024-02-29
+85,Danny Hernandez,kristin93@example.com,Ethiopia,2025-12-10
+86,Laura Roberts,brownlaura@example.net,British Virgin Islands,2024-11-13
+87,Bobby Williams MD,holly48@example.net,Gibraltar,2025-04-10
+88,Alicia Hubbard,davissuzanne@example.net,Swaziland,2024-04-09
+89,Sydney White,hinesgregory@example.net,Myanmar,2024-10-08
+90,Frank Garcia,ecosta@example.com,Central African Republic,2024-06-14
+91,Brandon King,zroberts@example.net,Brazil,2026-05-17
+92,Julia Brown,,Maldives,2024-07-19
+93,Joshua Pennington,wgarrett@example.org,Kazakhstan,2026-02-08
+94,Michelle Collins,omartinez@example.net,American Samoa,2025-02-13
+95,Bruce Collier,walkermaureen@example.org,Luxembourg,2026-04-06
+96,Mrs. Kristen Reyes,william46@example.com,Uruguay,2025-04-05
+97,Richard Adams,michellehill@example.com,Afghanistan,2024-04-23
+98,John Cook,mary97@example.org,Serbia,2025-02-03
+99,James Chase,MCANTU@EXAMPLE.NET,Isle of Man,2023-08-05
+100,Matthew Hoover,zthornton@example.com,Canada,2024-12-12
+101,  Shelly Alexander  ,martineztammy@example.com,Malta,2026-03-12
+102,Angela Harrington,bowenrobert@example.net,Estonia,2024-06-24
+103,Jamie Stewart,vsantos@example.net,Saint Barthelemy,2026-02-15
+104,Mark Mccall,cbrennan@example.net,Denmark,2025-09-14
+105,Ashlee Jackson,wgood@example.net,French Southern Territories,2026-03-05
+106,Charles Schmidt,nguyenbrian@example.com,Mongolia,2025-07-05
+107,Cynthia Durham,georgemiller@example.com,Cambodia,2024-02-28
+108,Brooke Alexander,steve07@example.com,Guatemala,2026-06-05
+109,Christina Cruz,danielle64@example.com,Liberia,2023-10-13
+110,  Elizabeth Spence DDS  ,karmstrong@example.com,Falkland Islands (Malvinas),2023-06-27
+111,Crystal Pham,lozanojulie@example.com,Cyprus,2025-05-16
+112,Ellen Alexander,erica21@example.net,Mozambique,2024-07-22
+113,Curtis Buchanan,christopherphillips@example.net,Turkey,2026-05-18
+114,Gina Wilson,maria47@example.com,Belarus,2023-11-20
+115,Regina Diaz,michelleramsey@example.com,Somalia,2024-08-24
+116,  Deborah James  ,amanda75@example.net,Northern Mariana Islands,2026-04-14
+117,Kristina Herman,leonardthomas@example.net,Cyprus,2025-05-28
+118,Charles Shah,tblankenship@example.net,Gabon,2026-06-14
+119,Jacob Avery,davispaige@example.org,Qatar,2026-04-20
+120,Mary Bass,umatthews@example.org,Nicaragua,2024-09-08
+121,David Cox,antonio53@example.com,Poland,2024-07-25
+122,Samantha Davis,bruce43@example.org,Croatia,2025-05-22
+123,Christine Gallegos,williamsmatthew@example.org,Micronesia,2024-02-01
+124,Linda Ramirez,lisahall@example.org,Cameroon,2026-06-05
+125,Richard Young,LAUREN10@EXAMPLE.ORG,Gibraltar,2023-07-06
+126,Karen Strickland,brian68@example.org,Malaysia,2025-03-30
+127,Susan Hopkins,ngordon@example.org,Gabon,2024-11-02
+128,Brian Joseph,browntimothy@example.com,Kenya,2023-09-07
+129,Mark Kelley,morriseddie@example.org,Greece,2024-08-09
+130,Ashley Pena,shawn96@example.org,Turkey,2025-10-08
+131,Jesse Perry,russellbeasley@example.com,Bhutan,2024-05-26
+132,Andrea Decker,elizabeth52@example.net,Bermuda,2024-10-04
+133,Kristina Santiago,lisa80@example.net,Isle of Man,2024-07-10
+134,Lindsay Bell,,Morocco,2024-12-26
+135,Justin Wilson,dianewalker@example.org,Fiji,2025-03-09
+136,Maria Johnson,xbruce@example.net,Vanuatu,2025-06-08
+137,Christopher Thomas,anthony44@example.com,Palestinian Territory,2024-08-31
+138,Cindy Barnes,joycebonilla@example.org,Guam,2023-12-08
+139,Brittney Webster,jennifer99@example.org,Australia,2025-06-26
+140,Donald Fischer,scott67@example.net,Brazil,2024-07-01
+141,Elizabeth Walker,CAMPBELLERIKA@EXAMPLE.COM,Netherlands Antilles,2023-08-18
+142,Donna Wilson,kevinclark@example.org,Luxembourg,2025-09-14
+143,Sandra Drake,davidpatel@example.org,Barbados,2024-08-27
+144,Laura Berry,grahamsteve@example.org,Russian Federation,2025-05-20
+145,Lisa Collier,DARIUS05@EXAMPLE.ORG,Uruguay,2024-07-19
+146,Kelly Foster,prichard@example.com,Georgia,2025-09-13
+147,Kerry Lee,masonjackson@example.net,Singapore,2024-07-05
+148,Christian Malone,joelthomas@example.org,Belarus,2023-12-30
+149,Thomas Cunningham,kmarshall@example.net,North Macedonia,2026-06-04
+150,Jeremy Turner,michelle52@example.com,Falkland Islands (Malvinas),2025-03-28
+151,Jacob Mitchell,william47@example.com,Oman,2026-01-21
+152,Tiffany Stevenson,gilbertwilliam@example.com,Armenia,2024-10-23
+153,Joanna Shepherd,marcalvarez@example.org,Taiwan,2024-06-29
+154,Wendy Warren,wagnergerald@example.org,New Zealand,2023-12-09
+155,Amy Mccoy,samantha66@example.com,Grenada,2023-08-30
+156,Mary Escobar,grantpaul@example.com,Tunisia,2023-11-30
+157,Matthew Bates,aguilardonald@example.com,Bulgaria,2025-04-01
+158,Meagan Calderon,collinsnicholas@example.com,Saint Vincent and the Grenadines,2026-06-15
+159,Eric Bean,lucasrodney@example.com,Guam,2026-04-22
+160,Ryan Garcia,ilee@example.org,Sierra Leone,2025-01-30
+161,James Martin,stanleynancy@example.net,Switzerland,2025-07-17
+162,Cynthia Wallace,jenniferwilliams@example.com,Finland,2025-09-20
+163,Rachel Mckee,PYOUNG@EXAMPLE.COM,Congo,2024-07-26
+164,Jennifer Martin,smurray@example.com,Cook Islands,2025-11-13
+165,Kristen Garcia,moniquewilliams@example.com,Tanzania,2025-01-04
+166,Jose Guerra,mitchellkathryn@example.com,Bermuda,2026-04-21
+167,James Brooks,LISAWILKERSON@EXAMPLE.ORG,Hungary,2026-06-12
+168,Raven Taylor,jeffrey51@example.net,France,2026-03-20
+169,Luis Bullock,ihorton@example.net,Andorra,2024-03-25
+170,Ricardo Young,,British Virgin Islands,2023-08-10
+171,Russell Porter,NFOWLER@EXAMPLE.COM,Mauritania,2023-07-07
+172,Cynthia Butler,jennifercarter@example.org,Papua New Guinea,2025-06-20
+173,Katie Smith,carlos88@example.net,Tunisia,2024-11-15
+174,Richard Cooper,qzavala@example.net,Saint Martin,2025-06-08
+175,Harold Morgan,ingramjill@example.com,Norway,2023-12-27
+176,Chad Baldwin,,Western Sahara,2024-11-01
+177,Kaylee Hays,james30@example.com,Mayotte,2024-11-18
+178,Amber Rios,mullinsjames@example.com,Faroe Islands,2023-11-02
+179,  Cody Holt  ,samuel67@example.com,Heard Island and McDonald Islands,2026-03-28
+180,Samantha Gardner,laurie61@example.com,Gibraltar,2023-10-09
+181,Carol Wallace,donna47@example.net,Kiribati,2023-08-04
+182,Theresa Jones,christina64@example.net,Northern Mariana Islands,2024-09-06
+183,Jessica Martinez,stephaniethomas@example.net,Dominica,2025-10-19
+184,  Jerry Watson  ,michael90@example.net,Kenya,2025-10-02
+185,Tyler Johnson,alyssasanders@example.net,Colombia,2024-12-16
+186,Michele Lewis,hmcintyre@example.com,New Zealand,2024-04-26
+187,Steven Wallace,igonzalez@example.org,Benin,2025-11-23
+188,Elijah Moore,elizabeth18@example.net,Russian Federation,2026-03-31
+189,Dr. Cynthia Snyder,laurahicks@example.org,Guyana,2025-02-15
+190,Ana Sanders,tanner82@example.net,Saint Barthelemy,2025-08-14
+191,Evan Jones,khammond@example.org,Lao People's Democratic Republic,2025-07-03
+192,Betty Shaw,david89@example.org,Trinidad and Tobago,2023-08-18
+193,Michael Reed,holmeskevin@example.org,Wallis and Futuna,2025-01-07
+194,Denise Weber,meghan43@example.net,Nicaragua,2025-01-23
+195,Michelle Jacobs,brittanycarpenter@example.org,Tajikistan,2026-03-27
+196,Patricia Baker,bryananthony@example.org,Cote d'Ivoire,2025-10-06
+197,Kimberly May,bmontgomery@example.com,Gabon,2024-11-29
+198,Jeffrey Washington,eevans@example.net,Costa Rica,2024-06-25
+199,Haley Ross PhD,larryhiggins@example.net,Malaysia,2025-02-23
+200,Brent Roberts,,Hungary,2026-01-21
+1,Brian Yang,duplicate@example.com,Mayotte,2023-09-22
