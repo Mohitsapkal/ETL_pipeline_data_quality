@@ -72,11 +72,13 @@ in `dq_audit`, with violation counts.
 
 ## Getting Started
 
-    git clone git@github.com:YOUR_USERNAME/etl-pipeline-data-quality.git
-    cd etl-pipeline-data-quality
-    python3 -m venv venv
-    source venv/bin/activate
-    pip install -r requirements.txt
+```bash
+git clone https://github.com/Mohitsapkal/ETL_pipeline_data_quality.git
+cd ETL_pipeline_data_quality
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
 
 Run the full pipeline:
 
@@ -123,6 +125,13 @@ Schedule daily runs via cron:
     │   └── warehouse.db       # SQLite warehouse (gitignored)
     └── logs/                  # Per-run logs (gitignored)
 
+## Author & Copyright
+
+- **Author / Owner**: Mohit Sapkal
+- **GitHub**: [@Mohitsapkal](https://github.com/Mohitsapkal)
+- **Repository**: [Mohitsapkal/ETL_pipeline_data_quality](https://github.com/Mohitsapkal/ETL_pipeline_data_quality)
+
 ## License
 
-MIT
+This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright (c) 2026 Mohit Sapkal. All rights reserved.
